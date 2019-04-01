@@ -1,12 +1,15 @@
 [submodule "api-client.js"]
 	path = api-client.js
-	url = git@gist.github.com:f1f2686232af3682cf31ff9f50e46baf
+	url = git@gist.github.com:f1f2686232af3682cf31ff9f50e46baf.git
 [submodule "generateTVMetaData.js"]
 	path = generateTVMetaData.js
-	url = git@gist.github.com:3a3ff6d36f6e1ed791a91c75a7b58467
+	url = git@gist.github.com:3a3ff6d36f6e1ed791a91c75a7b58467.git
 [submodule "webpack.config.js"]
 	path = webpack.config.js
-	url = git@gist.github.com:c1f84e3cbae3b6c9b415c309f5b4d52f
+	url = git@gist.github.com:c1f84e3cbae3b6c9b415c309f5b4d52f.git
 [submodule "System Design.md"]
 	path = System Design.md
-	url = git@gist.github.com:af517ec1a8bb1b91b3988cf19be7eb29
+	url = git@gist.github.com:af517ec1a8bb1b91b3988cf19be7eb29.git
+[submodule "Effective_Engineer.md"]
+	path = Effective_Engineer.md
+	url = git@gist.github.com:17aacb501f999b5345b2cb3efd1b4ef4.git
